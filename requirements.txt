@@ -4,4 +4,3 @@ pandas
 requests
 tqdm
 openpyxl
-dotenv
