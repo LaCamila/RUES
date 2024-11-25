@@ -1,0 +1,7 @@
+streamlit_jupyter
+streamlit
+pandas
+requests
+tqdm
+openpyxl
+dotenv
